@@ -1,0 +1,1 @@
+{"id":"decc1c6c-6a49-42cb-a4d7-66194b4f2723","space":32371,"runtime":"nodejs14.x","name":"test-nestjs","path":"xc70wk","project":"b0o6ncc7","account":"144798365827","region":"us-west-1","deps":["rimraf@^3.0.2","rxjs@^7.2.0","deta@^1.1.0","@nestjs/mapped-types@*","reflect-metadata@^0.1.13"],"envs":null,"public":true,"log_level":"debug","cron":""}
